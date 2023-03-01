@@ -1,1 +1,1 @@
-# deepl-learning-basics
+# deepl-learning
